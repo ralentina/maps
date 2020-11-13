@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="850px" height="450px" viewBox="0 0 850 450" enable-background="new 0 0 850 450" xml:space="preserve">
+	 <defs>
+	<style type="text/css"><![CDATA[
+		:root {
+			--blackish:#494e52;
+			--grey:#9FA1A4;
+			--accent: #FF3636;
+			--serif: Georgia, Times, serif;
+			--sans-serif: Helvetica, sans-serif;
+		}
+		
+	]]></style>
+ </defs>
+	 
+<!-- quintile lines -->	
+<g>
+	<line fill="none" stroke="var(--accent)" stroke-dasharray="3,3" x1="605.254" y1="382.323" x2="209.205" y2="382.323"/>
+	<line fill="none" stroke="var(--accent)" stroke-dasharray="3,3" x1="605.254" y1="361.063" x2="209.205" y2="361.063"/>
+	<line fill="none" stroke="var(--accent)" stroke-dasharray="3,3" x1="605.254" y1="336.819" x2="209.205" y2="336.819"/>
+</g>
+<!-- points -->
+<g>
+	<rect x="260.459" y="345.024" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="595.933" y="389.036" fill="#767677" width="9.725" height="9.724"/>
+	<rect x="289.655" y="378.218" fill="#969696" width="9.724" height="9.724"/>
+	<rect x="445.591" y="385.679" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="257.972" y="151.814" fill="#D9D9D8" width="9.724" height="9.725"/>
+	<rect x="239.336" y="355.84" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="345.57" y="382.323" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="255.487" y="353.976" fill="#BDBDBD" width="9.724" height="9.725"/>
+	<rect x="241.199" y="134.283" fill="#D9D9D8" width="9.724" height="9.724"/>
+	<rect x="482.246" y="386.426" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="348.676" y="375.983" fill="#969696" width="9.724" height="9.724"/>
+	<rect x="255.487" y="254.388" fill="#D9D9D8" width="9.724" height="9.724"/>
+	<rect x="310.158" y="370.013" fill="#969696" width="9.724" height="9.725"/>
+	<rect x="234.986" y="336.819" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="246.79" y="342.412" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="471.686" y="390.529" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="260.459" y="375.238" fill="#969696" width="9.724" height="9.724"/>
+	<rect x="236.229" y="301.757" fill="#D9D9D8" width="9.724" height="9.724"/>
+	<rect x="254.245" y="363.301" fill="#969696" width="9.724" height="9.724"/>
+	<rect x="238.715" y="312.946" fill="#D9D9D8" width="9.724" height="9.725"/>
+	<rect x="208.894" y="166.735" fill="#D9D9D8" width="9.724" height="9.724"/>
+	<rect x="440" y="387.545" fill="#767677" width="9.725" height="9.724"/>
+	<rect x="270.398" y="358.451" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="258.594" y="311.826" fill="#D9D9D8" width="9.724" height="9.724"/>
+	<rect x="297.732" y="355.84" fill="#BDBDBD" width="9.724" height="9.724"/>
+	<rect x="553.689" y="385.306" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="305.188" y="366.656" fill="#969696" width="9.724" height="9.724"/>
+	<rect x="335.008" y="384.561" fill="#767677" width="9.724" height="9.724"/>
+	<rect x="289.655" y="361.063" fill="#969696" width="9.724" height="9.724"/>
+	
+<!--grid-->
+	<line fill="none" stroke="var(--accent)" stroke-width="1.5" x1="184.973" y1="136.377" x2="184.973" y2="398.889"/>
+	<line fill="none" stroke="var(--accent)" stroke-width="1.5" x1="209.205" y1="408.145" x2="604.939" y2="408.145"/>
+	
+	
+	<text transform="matrix(1 0 0 1 255.4888 105.7083)" font-family="var(--serif)" font-weight="bold" font-size="11.3445">Pedro Aguirre Cerda</text>
+	<text transform="matrix(1 0 0 1 255.4888 117.4812)" font-family="var(--sans-serif)" font-size="9.8111">avg. income: 746,555 CLP</text>
+	<text transform="matrix(1 0 0 1 255.4888 129.2542)" font-family="var(--sans-serif)" font-size="9.8111">ppl / pharmacy: 101,174</text>
+	<text transform="matrix(1 0 0 1 221.9561 45.0027)" font-family="var(--serif)" font-weight="bold" font-size="11.3445">La Pintana</text>
+	<text transform="matrix(1 0 0 1 221.9561 56.7751)" font-family="var(--sans-serif)" font-size="9.8111">avg. income: 618,354 CLP</text>
+	<text transform="matrix(1 0 0 1 221.9561 68.5476)" font-family="var(--sans-serif)" font-size="9.8111">ppl / pharmacy: 88,667</text>
+	<text transform="matrix(1 0 0 1 608.5635 346.1047)" font-family="var(--serif)" font-weight="bold" font-size="11.3445">Vitacura</text>
+	<text transform="matrix(1 0 0 1 608.5635 357.8801)" font-family="var(--sans-serif)" font-size="9.8111">avg. income: 2,177,038 CLP</text>
+	<text transform="matrix(1 0 0 1 608.5635 369.6526)" font-family="var(--sans-serif)" font-size="9.8111">ppl / pharmacy: 3284</text>
+	<text transform="matrix(1 0 0 1 567.5469 293.6301)" font-family="var(--serif)" font-weight="bold" font-size="11.3445">Las Condes</text>
+	<text transform="matrix(1 0 0 1 567.5469 305.4055)" font-family="var(--sans-serif)" font-size="9.8111">avg. income: 2,006,908 CLP</text>
+	<text transform="matrix(1 0 0 1 567.5469 317.179)" font-family="var(--sans-serif)" font-size="9.8111">ppl / pharmacy: 4679</text>
+	<text transform="matrix(1 0 0 1 134.7354 259.0305)" font-family="var(--serif)" font-weight="bold" font-size="12" fill="var(--accent)">People</text>
+	<text transform="matrix(1 0 0 1 153.1191 273.7473)" font-family="var(--serif)" font-weight="bold" font-size="12" fill="var(--accent)">per</text>
+	<text transform="matrix(1 0 0 1 118.9922 288.4631)" font-family="var(--serif)" font-weight="bold" font-size="12" fill="var(--accent)">Pharmacy</text>
+	<text transform="matrix(1 0 0 1 357.9951 428.2727)" font-family="var(--serif)" font-weight="bold" font-size="12" fill="var(--accent)">Average Income</text>
+	<g>
+		<g>
+			<line fill="none" stroke="var(--accent)" x1="600.594" y1="385.269" x2="600.594" y2="344.602"/>
+			<g>
+				<circle fill="var(--accent)" cx="600.594" cy="344.718" r="2.305"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="var(--accent)" x1="558.349" y1="381.744" x2="558.349" y2="290.309"/>
+			<g>
+				<circle fill="var(--accent)" cx="558.349" cy="290.423" r="2.305"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="var(--accent)" x1="246.79" y1="128.552" x2="246.79" y2="101.445"/>
+			<g>
+				<circle fill="var(--accent)" cx="246.79" cy="101.559" r="2.306"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="var(--accent)" x1="213.553" y1="163.396" x2="213.553" y2="41.351"/>
+			<g>
+				<circle fill="var(--accent)" cx="213.553" cy="41.465" r="2.306"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
