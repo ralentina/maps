@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital inequalities in the pandemic
+title: Access to the Internet during the pandemic
 date: 2020-03-25
 tags:
   - ArcMap
@@ -8,7 +8,7 @@ tags:
   - choropleth
   - infographic
   - Covid-19
-excerpt: A series of choropleth maps and infographics illustrating uneven access to the Internet in the Región Metropolitana and the rest of Chile
+excerpt: A series of choropleth maps and infographics illustrating uneven access to the Internet in the Región Metropolitana and the rest of Chile.
 ---
 
 In Chile, as in many other countries, the Covid-19 pandemic has underscored stark geographical and social inequalities in Internet access.

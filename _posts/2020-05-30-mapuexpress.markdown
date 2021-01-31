@@ -8,6 +8,6 @@ tags:
   - participatory-mapping
   - Chile
   - Covid-19
-excerpt: A collaborative, crowdsourced mapping project documenting the effects of the pandemic in Wallmapu
+excerpt: A collaborative, crowdsourced mapping project documenting the effects of the pandemic in Wallmapu.
 link: https://www.mapuexpress.org/coronavirus/
 ---

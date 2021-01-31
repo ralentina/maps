@@ -23,7 +23,7 @@ Given the <a href="https://interferencia.cl/articulos/vitacura-y-versalles-la-de
 	</figcaption>
 </figure> 
 
-Even as I was making it, I was aware that a choropleth was a bit of a lazy choice in this case: it's very misleading because the amount of red or blue depends on a country's size, not on the number of votes. Take Russia: it takes up a lot of space, but it counted for just 27 votes!
+Even as I was making it, I was aware that a choropleth was a lazy choice in this case: it's very misleading because the amount of red or blue depends on a country's size, not on the number of votes. Take Russia: it takes up a lot of space, but it counted for just 27 votes!
 
 A few months later, when I had more time, I had a go at improving the map, this time using the complete results released by Servel. I used bubbles to display the number of valid votes in each country. It seems reasonable to assume this number works as proxy for the size of each country's Chilean population, so this adds a layer of information to the map.
 I kept an (almost) identical colour scheme, but this time I used the overall referendum result (78.28% 'apruebo') as a threashold for my classes. I find the result not only clearer, but also more visually pleasing:
