@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highrise developments in Santiago Centro
+title: Highrise developments in Santiago
 date: 2020-10-30 16:49:00
 tags:
   - QGIS
