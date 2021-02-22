@@ -22,4 +22,4 @@ As attribute data, I have used the population by region according to the 2017 ce
 	</figcaption>
 </figure>
 
-I like the first option on the left, but it makes it hard to compare the relative size of regions, and clearly downplays just as populated is the Metropolitan Región. The Dorling cartogram is perhaps my favourite option here: it looks fine and strikes a good balance between preserving the rough shape of Chile and communicating the data. 
+I like the first option on the left, even though it makes it hard to compare the relative size of regions and downplays just as populated the Metropolitan Región is. The Dorling cartogram is perhaps my favourite overall: it looks fine and strikes a good balance between preserving the rough shape of Chile and communicating the data. 
