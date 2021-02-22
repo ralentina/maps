@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arquitectura y Poder en Sudamerica
-date: 2021-01-30 11:49:00
+date: 2021-02-22 11:49:00
 tags:
   - Leaflet
   - multimedia
