@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arquitectura y Poder: Palacios Gubernamentales en Sudamerica
-date: 2021-02-22 12:00:00
+date: 2021-02-21 12:00:00
 tags:
   - Leaflet
   - interactive
