@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where does the population of Chile lives?
+title: Where does the population of Chile live?
 date: 2021-01-30 11:49:00
 tags:
   - QGIS
