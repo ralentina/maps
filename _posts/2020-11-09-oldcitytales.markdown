@@ -7,6 +7,7 @@ tags:
   - interactive
   - Palestine
   - multimedia
-excerpt: A multimedia StoryMap showcasing *Old City Tales*, a project by Grassroots Jerusalem, ArtLab and the Youth for Jerusalem Association.
+  - Grassroots Al-Quds
+excerpt: A multimedia StoryMap showcasing *Old City Tales*, a project by Grassroots al-Quds, ArtLab and the Youth for Jerusalem Association.
 link: https://storymaps.arcgis.com/stories/ad33e77d440043c986b3504dbcd98547
 ---
