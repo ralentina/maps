@@ -7,7 +7,7 @@ tags:
   - dot-density
   - Litoral Central
   - Chile
-  - ArcGIS
+  - ArcMap
   - Census
 excerpt: A first attempt to visualise the impact of tourism on population distribution on the Litoral Central (plus some design experimentation).
 
