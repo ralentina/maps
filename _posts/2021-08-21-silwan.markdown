@@ -1,0 +1,62 @@
+---
+layout: post
+title: Tourism as Colonialism in Silwan
+
+date: 2021-08-21 11:49:00
+tags:
+    - Grassroots Al-Quds
+    - Palestine
+    - ArcMap
+excerpt: A series of maps, in English and Arabic, illustrating how tourism development is used for ethnic cleansing in Silwan.
+
+---
+
+I made this cartographic series for/with Grassroots Al-Quds. The goal was to place the ethnic cleansing of Silwan into contexts, by showing how it fits into a broader development strategy of the areas South of the Old City. 
+
+## Overview
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.3-map1-EN.jpg' | absolute_url }}" alt="">
+    <figcaption>
+	 Map 1: Tourism development as colonialism - overview (English version)
+	</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.3-map1-AR.jpg' | absolute_url }}" alt="">
+  <figcaption>
+	 Map 1: Tourism development as colonialism - overview (Arabic version)
+	</figcaption>
+</figure>
+
+## Present
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.3-map2-EN.jpg' | absolute_url }}" alt="">
+    <figcaption>
+	 Map 2: Projects and interventions happening in the present (English version)
+	</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.5-map2-AR.jpg' | absolute_url }}" alt="">
+  <figcaption>
+	 Map 2: Projects and interventions happening in the present (Arabic version)
+	</figcaption>
+</figure>
+
+## Future
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.3-map3-EN.jpg' | absolute_url }}" alt="">
+    <figcaption>
+	 Map 3: Planned projects and interventions (English version)
+	</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ '/img/Silwan-2.6-map3-AR.jpg' | absolute_url }}" alt="">
+  <figcaption>
+	 Map 3: Planned projects and interventions (Arabic version)
+	</figcaption>
+</figure>
