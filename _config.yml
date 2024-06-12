@@ -19,8 +19,8 @@ skin: "/assets/css/skins/folio.css"
 locale: en-UK
 title: "Lost in Cartography"
 description: "a map log"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://ralentina.github.io/maps/"
+baseurl: "maps/"
+url: "https://ralentina.github.io/"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%d %b, %Y"
 read_time: #false
