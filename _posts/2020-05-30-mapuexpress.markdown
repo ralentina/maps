@@ -9,5 +9,5 @@ tags:
   - Chile
   - Covid-19
 excerpt: A collaborative, crowdsourced mapping project documenting the effects of the pandemic in Wallmapu.
-link: https://www.mapuexpress.org/coronavirus/
+link: http://www.mapuexpress.org/coronavirus/
 ---
