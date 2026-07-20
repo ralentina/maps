@@ -20,7 +20,7 @@ For the [pharmacies location](https://rentry.co/bs-scrape)) I scraped some comme
 
 
 <figure class="align-center">
-  <img src="{{ '/img/ph-choropleth-2.svg' | absolute_url }}" alt="">
+  <img src="{{ '/img/ph-choropleth-2.svg' | absolute_url }}" alt="bivariate-map">
   <figcaption>
 	The maps shows the distribution of pharmacies in relation to the population, by municipality. The lighter shade of grey marks areas where my research did not return any pharmacy. Sources: Census 2017, scraped pharmacy dataset 
 	</figcaption>
@@ -28,7 +28,7 @@ For the [pharmacies location](https://rentry.co/bs-scrape)) I scraped some comme
 
 
 <figure class="align-center">
-  <img src="{{'/img/ph-scatter-plot-2.svg' | absolute_URL }}">
+  <img src="{{'/img/ph-scatter-plot-2.svg' | absolute_URL }}" alt="scatterplot">
   <figcaption>
 	In the scatterplot, each square represents a municipality, using the same colour coding as the map above. The dotted lines mark the boundaries between quantiles.  
 	</figcaption>
