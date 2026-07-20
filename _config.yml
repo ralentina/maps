@@ -103,9 +103,6 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/the_vcarraro
-    icon: fab fa-twitter
   - title: Github
     url: https://github.com/ralentina
     icon: fab fa-github
