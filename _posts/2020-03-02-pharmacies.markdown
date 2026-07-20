@@ -20,7 +20,7 @@ For the [pharmacies location](https://rentry.co/bs-scrape)) I scraped some comme
 
 
 <figure class="align-center">
-  <img src="{{ '/img/ph-choropleth-2.svg' | absolute_url }}" alt="bivariate-map">
+  <img src="{{ '/img/ph-choropleth-2.svg' | absolute_url }}" alt="choropleth-map">
   <figcaption>
 	The maps shows the distribution of pharmacies in relation to the population, by municipality. The lighter shade of grey marks areas where my research did not return any pharmacy. Sources: Census 2017, scraped pharmacy dataset 
 	</figcaption>
