@@ -26,7 +26,7 @@ Home internet coverage in the Santiago Metropolitan Región. Data source: SUBTEL
 </figure> 
 
 <figure class="align-center">
-	<img src="{{ site.baseurl }}/img/CovidMapSeries_030420_02.jpg" alt="Santiago">
+	<img src="{{ '/img/CovidMapSeries_030420_02.jpg' | absolute_url }}" alt="Santiago">
 	  <figcaption>
 Home internet coverage in the Santiago province. Data source: SUBTEL, 2017
 	</figcaption>
@@ -43,28 +43,28 @@ There are also important differences at the regional level, and even when one co
 Of course, the scale of inequalities become even more apparent when comparing income groups and age difference, showing that working or studying for home is not an option available to everyone.
 
 <figure class="align-center">
-	<img src="{{ site.baseurl }}/img/CovidMapSeries_220420_01.jpg" alt="infographics-RM">
+	<img src="{{ '/img/CovidMapSeries_220420_01.jpg' | absolute_url }}" alt="infographics-regional">
 	  <figcaption>
 Home internet coverage at the regional level. Data source: SUBTEL, 2017
 	</figcaption>
 </figure>
 
 <figure class="align-center">
-	<img src="{{ site.baseurl }}/img/CovidMapSeries_220420_02.jpg" alt="infographics-RM">
+	<img src="{{ '/img/CovidMapSeries_220420_02.jpg' | absolute_url }}" alt="infographics-sociodemogr">
 	  <figcaption>
 Level of internet access for different income and age groups. Data source: SUBTEL 2017
 	</figcaption>
 </figure>
 
 <figure class="align-center">
-	<img src="{{ site.baseurl }}/img/CovidMapSeries_220420_01.jpg" alt="infographics-RM">
+	<img src="{{ '/img/CovidMapSeries_220420_01.jpg' | absolute_url}}" alt="infographics-RM">
 	  <figcaption>
 Internet coverage (fixed and mobile) at the regional level. Data source: SUBTEL 2017
 	</figcaption>
 </figure>
 
 <figure class="align-center">
-	<img src="{{ site.baseurl }}/img/CovidMapSeries_220420_04.jpg" alt="infographics-RM">
+	<img src="{{ '/img/CovidMapSeries_220420_04.jpg' | absolute_url}}" alt="infographics-ruralUrban">
 	  <figcaption>
 Gap in Internet use between urban and rural residents. Data source: Encuesta Casen 2019
 	</figcaption>
