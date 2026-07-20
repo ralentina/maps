@@ -33,7 +33,7 @@ Home internet coverage in the Santiago province. Data source: SUBTEL, 2017
 </figure> 
 
 <figure class="align-center">
-	<img src="{{ '/img/CovidMapSeries_030420_03.jpg' | absolute_ur l}}" alt="infographics-RM">
+	<img src="{{ '/img/CovidMapSeries_030420_03.jpg' | absolute_url }}" alt="infographics-RM">
 	  <figcaption>
 Percentage of homes with an Internet connexion (not including mobile connections) in different municipalities. Data source: SUBTEL, 2017
 	</figcaption>
