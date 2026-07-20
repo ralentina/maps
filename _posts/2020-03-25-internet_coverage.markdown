@@ -19,7 +19,7 @@ These graphics were published through the [CIGIDEN](cigiden.cl/) social media ne
 In the Santiago Metropolita Región the difference between the Eastern, wealthier neighbourhoods and the rest of the city are stark, and probably unsurprisin for those who are familiar with the city.
 
 <figure class="align-center">
-  <img src="{{ site.baseurl }}/img/CovidMapSeries_030420_01.jpg" alt="RM">
+  <img src="{{ '/img/CovidMapSeries_030420_01.jpg' | absolute_url }}" alt="RM">
   <figcaption>
 Home internet coverage in the Santiago Metropolitan Región. Data source: SUBTEL, 2017
 	</figcaption>
