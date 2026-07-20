@@ -41,7 +41,7 @@ First, I exported the map with <a href="https://mapshaper.org/">Mapshaper</a>, a
 I then exported the attribute data from ArcGIS into a CSV, and used [Python](https://rentry.co/csv2svgmap) to match it to my polygons.
 
 <figure class="align-center">
-	<object class="col three" data="{{ site.baseurl }}/img/ph-interactive-map-2.svg" type="image/svg+xml">
+	<object class="col three" data="{{ '/img/ph-interactive-map-2.svg' | absolute_url }}" type="image/svg+xml">
     </object>
   <figcaption>
 	Hover on a polygon to discover its name, people-to-pharmacies ratio and average income levels. As of early 2020, 1000 CLP is approximately 1 GPB, or just over 1 EURO. 
