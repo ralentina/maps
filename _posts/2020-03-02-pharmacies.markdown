@@ -28,7 +28,7 @@ For the [pharmacies location](https://rentry.co/bs-scrape)) I scraped some comme
 
 
 <figure class="align-center">
-  <img src="{{ '/img/ph-scatter-plot-2.svg' | absolute_URL }}" alt="scatterplot">
+  <img src="{{ '/img/ph-scatter-plot-2.svg' | absolute_url }}" alt="scatterplot">
   <figcaption>
 	In the scatterplot, each square represents a municipality, using the same colour coding as the map above. The dotted lines mark the boundaries between quantiles.  
 	</figcaption>
